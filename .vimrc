@@ -192,3 +192,5 @@ let g:miniBufExplMapWindowNavArrows = 1
 let g:miniBufExplMapCTabSwitchBufs = 1 
 let g:miniBufExplModSelTarget = 1 
 let g:vimwiki_list = [{'path': '~/Library/Mobile\ Documents/74ZAFF46HB~jp~informationarchitects~Writer/Documents/vimwiki', 'path_html': '~/public_html/', 'ext': '.txt'}]
+
+call pathogen#infect()
