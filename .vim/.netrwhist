@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/mslocal/Documents/Projects/GAE/an.yter.net/an.yter.net'
+let g:netrw_dirhist_2='/Users/mslocal/.config'
+let g:netrw_dirhist_3='/Users/mslocal/vimwiki/diary'
+let g:netrw_dirhist_4='/Volumes/UNIX_SHELLS/chap07/Ex_7.05-7.40'
+let g:netrw_dirhist_5='/Users/mslocal/.vim'
