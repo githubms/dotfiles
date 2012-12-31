@@ -2,5 +2,6 @@
 
 for i in `ls -a ~/dotfiles/`
 	do
-		ln -s ${i} ~/
+		flnm=`basename ${i}`		
+		ln -s ~/dotfiles/${flnm} ~/${flnm}
 	done
