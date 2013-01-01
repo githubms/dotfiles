@@ -191,6 +191,7 @@ let g:miniBufExplMapWindowNavVim = 1
 let g:miniBufExplMapWindowNavArrows = 1 
 let g:miniBufExplMapCTabSwitchBufs = 1 
 let g:miniBufExplModSelTarget = 1 
-let g:vimwiki_list = [{'path': '~/Documents/vimwiki', 'path_html': '~/public_html/', 'ext': '.txt'}]
+"let g:vimwiki_list = [{'path': '~/Documents/vimwiki/', 'syntax': 'markdown', 'path_html': '~/public_html/', 'ext': '.md'}]
+let g:vimwiki_ext2syntax = {}
 
 call pathogen#infect()
