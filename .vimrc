@@ -15,6 +15,8 @@ set nocompatible
 syntax on
 filetype plugin indent on
 
+set backspace=2
+
 set com=s1:/*,mb:*,ex:*/,://,b:#,:%,:XCOMM,n:>,b:-
 
 let g:miniBufExplMapWindowNavVim = 1 
