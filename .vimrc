@@ -23,6 +23,7 @@ let g:miniBufExplMapWindowNavVim = 1
 let g:miniBufExplMapWindowNavArrows = 1 
 let g:miniBufExplMapCTabSwitchBufs = 1 
 let g:miniBufExplModSelTarget = 1 
-let g:vimwiki_list = [{'path': '~/Documents/vimwiki/', 'syntax': 'markdown', 'path_html': '~/public_html/', 'ext': '.md'}]
+" let g:vimwiki_list = [{'path': '~/Documents/vimwiki/', 'syntax': 'markdown', 'path_html': '~/public_html/', 'ext': '.md'},{'path': '~/Dropbox/trunksync/notes/','syntax': 'markdown', 'path_html': '~/trunknotes_html/','ext': '.markdown'}]
+let g:vimwiki_list = [{'path': '~/Dropbox/trunksync/notes/','index': 'HomePage', 'syntax': 'markdown', 'path_html': '~/trunknotes_html/','ext': '.markdown','diary_rel_path':''}]
 
 call pathogen#infect()
