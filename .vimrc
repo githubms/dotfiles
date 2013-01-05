@@ -76,7 +76,7 @@ nnoremap <leader>ev <C-w><C-v><C-l>:e $MYVIMRC<cr>
 
 inoremap jj <ESC>
 
-nnoremap <leader>w <C-w>v<C-w>l
+nnoremap <leader>v <C-w>v<C-w>l
 
 colorscheme molokai
 

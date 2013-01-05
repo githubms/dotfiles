@@ -34,3 +34,12 @@
 [submodule ".vim/bundle/taglist.vim"]
 	path = .vim/bundle/taglist.vim
 	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule ".vim/bundle/tagbar"]
+	path = .vim/bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
+[submodule ".vim/bundle/ctrlp.vim"]
+	path = .vim/bundle/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule ".vim/bundle/ZoomWin"]
+	path = .vim/bundle/ZoomWin
+	url = https://github.com/vim-scripts/ZoomWin.git
